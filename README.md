@@ -1,3 +1,1 @@
-# avantika
-first repository .
-hi!!!!!!!!!!!
+
